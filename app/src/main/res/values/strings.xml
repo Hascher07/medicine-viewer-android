@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Medicine Viewer</string>
+    <string name="error_timeout_title">Timeout</string>
+    <string name="error_timeout_desc">Please check your internet connection is down or poor.</string>
+    <string name="please_check_internet">Please check your internet connection. If the problem persists, you may always reach us by phone.</string>
+    <string name="please_check_internet_call_us">Call Us</string>
+    <string name="please_try_again">Please try again</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="error">Error</string>
+</resources>
